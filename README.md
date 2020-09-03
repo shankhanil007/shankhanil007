@@ -35,7 +35,6 @@
 <br />
 <br />
 
----
 
 ## About Me
 I am a full stack web developer with 6 months of experience. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. 
