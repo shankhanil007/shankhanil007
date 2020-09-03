@@ -10,3 +10,6 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shankhanil-borthakur-00069019a/">LinkedIn</a> or <a href="https://www.instagram.com/shankhanil_007/">Instagram</a>  or <a href="mailto:shankhanil974@gmail.com">Email</a>
 - 😄 Pronouns: **Coder, Topper, Helper**
 - ⚡ Fun fact: **The way I live my life is quite similar to the character of "Rancho" in the movie "3 idiots" :)**
+
+## Some Statistics Fun
+![shankhanil007 github stats](https://github-readme-stats.vercel.app/api?username=shankhanil007&show_icons=true&line_height=30&title_color=000000&icon_color=ff0800&text_color=000000)
