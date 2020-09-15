@@ -6,7 +6,6 @@
 
 
 
-- 🔭 I’m currently working on a project for **HackGujarat**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Designing and React**
