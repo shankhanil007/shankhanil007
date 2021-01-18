@@ -49,4 +49,4 @@ My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Ten
 
 
 ## Stats
-![shankhanil007 github stats](https://github-readme-stats.vercel.app/api?username=shankhanil007&show_icons=true&line_height=30&title_color=000000&icon_color=ff0800&text_color=000000)
+![shankhanil007 github stats](https://github-readme-stats.vercel.app/api?username=shankhanil007&show_icons=true&theme=graywhite)
