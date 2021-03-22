@@ -43,7 +43,7 @@ I am a full stack web developer with 6 months of experience. Proficient in HTML,
 
 My most notable project is <a href="http://covid-info-help.herokuapp.com/">Covid-Info/Help</a> website which won the 1st prize in SVNIT ACM Month of Code challenge. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
 
-Currently I am active in open-source and would love to contribute to a major organisation someday!
+Currently I am active in open source and would love to contribute to a major organisation someday!
 
 My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Tennis & Chess** and **Guitar**. I love to maintain a balance between my academics, hobbies, college work and upgrading my skills!
 
