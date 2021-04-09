@@ -6,8 +6,8 @@
 
 
 
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Hackathons**
 - 🤔 I’m looking for help with **Designing and React**
 - 💬 Ask me about **Full Stack Web Development**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shankhanil-borthakur-00069019a/">LinkedIn</a> or <a href="https://www.instagram.com/shankhanil_007/">Instagram</a>  or <a href="mailto:shankhanil974@gmail.com">Email</a>
@@ -39,9 +39,9 @@
 
 
 ## About Me
-I am a full stack web developer with 6 months of experience. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. 
+I am a full stack web developer. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
 
-My most notable project is <a href="http://covid-info-help.herokuapp.com/">Covid-Info/Help</a> website which won the 1st prize in SVNIT ACM Month of Code challenge. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
+Check out my projects <a href="http://covid-info-help.herokuapp.com/">Neural News</a>, <a href="http://covid-info-help.herokuapp.com/">EduHelp</a>, <a href="http://covid-info-help.herokuapp.com/">Publicize</a> and <a href="http://covid-info-help.herokuapp.com/">Covid-Info/Help</a>. I was the winner of DotSlash 4.0 Hackathon and was selected among the top 10 teams at Hack Gujarat 2020 Hackathon. 
 
 Currently I am active in open source and would love to contribute to a major organisation someday!
 
