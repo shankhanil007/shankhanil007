@@ -41,7 +41,7 @@
 ## About Me
 I am a full stack web developer. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
 
-Check out my projects <a href="http://covid-info-help.herokuapp.com/">Neural News</a>, <a href="http://covid-info-help.herokuapp.com/">EduHelp</a>, <a href="http://covid-info-help.herokuapp.com/">Publicize</a> and <a href="http://covid-info-help.herokuapp.com/">Covid-Info/Help</a>. I was the winner of DotSlash 4.0 Hackathon and was selected among the top 10 teams at Hack Gujarat 2020 Hackathon. 
+Check out my projects <a href="https://github.com/shankhanil007/DotSlash-4.0-EduHelp.git">EduHelp</a>, <a href="https://github.com/shankhanil007/Neural-News.git">Neural News</a>, <a href="https://github.com/shankhanil007/Publicise.git">Publicize</a> and <a href="https://github.com/shankhanil007/Covid-InfoHelp.git">Covid-Info/Help</a>. I was the winner of DotSlash 4.0 Hackathon and was selected among the top 10 teams at Hack Gujarat 2020 Hackathon. 
 
 Currently I am active in open source and would love to contribute to a major organisation someday!
 
