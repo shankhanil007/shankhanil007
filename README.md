@@ -2,8 +2,6 @@
   
 ## Howdy Folks! I am Shankhanil Borthakur 👋
 
-
-
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Hackathons**
 - 🤔 I’m looking for help with **Designing and React**
