@@ -33,7 +33,6 @@
 <br />
 <br />
 
-
 ## About Me
 I am a full stack web developer. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
 
