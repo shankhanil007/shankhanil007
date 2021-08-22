@@ -42,6 +42,7 @@ Currently I am active in open source and would love to contribute to a major org
 
 My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Tennis & Chess** and **Guitar**. I love to maintain a balance between my academics, hobbies, college work and upgrading my skills!
 
+  
 
 ## Stats
 ![shankhanil007 github stats](https://github-readme-stats.vercel.app/api?username=shankhanil007&show_icons=true&theme=graywhite)
