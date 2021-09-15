@@ -38,7 +38,6 @@ I am a full stack web developer. Proficient in HTML, CSS, JavaScript, Node.js, e
 
 Check out my projects <a href="https://github.com/shankhanil007/DotSlash-4.0-EduHelp.git">EduHelp</a>, <a href="https://github.com/shankhanil007/Neural-News.git">Neural News</a>, <a href="https://github.com/shankhanil007/Publicise.git">Publicize</a> and <a href="https://github.com/shankhanil007/Covid-InfoHelp.git">Covid-Info/Help</a>. I was the winner of DotSlash 4.0 Hackathon and was selected among the top 10 teams at Hack Gujarat 2020 Hackathon. 
 
-Currently I am active in open source and would love to contribute to a major organisation someday!
 
 My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Tennis & Chess** and **Guitar**. I love to maintain a balance between my academics, hobbies, college work and upgrading my skills!
 
