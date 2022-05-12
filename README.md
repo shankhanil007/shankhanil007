@@ -33,10 +33,9 @@
 <br />
 
 ## About Me
-I am a full stack web developer. Proficient in HTML, CSS, JavaScript, Node.js, express and MongoDB,  I have built several web applications. I was also a part of the web development team for a start-up company wherein I used my skills to help build their company website. 
-
-Check out my projects <a href="https://github.com/shankhanil007/DotSlash-4.0-EduHelp.git">EduHelp</a>, <a href="https://github.com/shankhanil007/Neural-News.git">Neural News</a>, <a href="https://github.com/shankhanil007/Publicise.git">Publicize</a> and <a href="https://github.com/shankhanil007/Covid-InfoHelp.git">Covid-Info/Help</a>. I was the winner of DotSlash 4.0 Hackathon and was selected among the top 10 teams at Hack Gujarat 2020 Hackathon. 
-
+I am a pre-final year student at NIT Surat. Every semester I try to learn a new skill and I like investing my time doing projects and internships during my vacations. I did a web development internship at an event management startup and also worked on machine learning projects at ISRO and IIT Delhi.
+  
+I actively participate in hackathons and have won 3 national and 2 international-level hackathons. Also, being an active member of technical communities, I mentor my juniors in web development, conduct workshops, and hackathons.
 
 My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Tennis & Chess** and **Guitar**. I love to maintain a balance between my academics, hobbies, college work and upgrading my skills!
 
