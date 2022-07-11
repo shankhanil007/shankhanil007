@@ -2,7 +2,7 @@
   
 ## Howdy Folks! I am Shankhanil Borthakur 👋
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Hackathons**
 - 🤔 I’m looking for help with **Designing and React**
 - 💬 Ask me about **Full Stack Web Development**
@@ -33,9 +33,9 @@
 <br />
 
 ## About Me
-I am a pre-final year student at NIT Surat. Every semester I try to learn a new skill and I like investing my time doing projects and internships during my vacations. I did a web development internship at an event management startup and also worked on machine learning projects at ISRO and IIT Delhi.
+I am a pre-final year student at NIT Surat. Every semester I try to learn a new skill and I like investing my time doing projects and internships during my vacations. I have worked on AWS and machine learning projects during my internships at JPMC, ISRO, and IIT Delhi.
   
-I actively participate in hackathons and have won 3 national and 2 international-level hackathons. Also, being an active member of technical communities, I mentor my juniors in web development, conduct workshops, and hackathons.
+I actively participate in hackathons and have won 4 national and international hackathons organized by Buffalo, Fordham, SRM University, and SVNIT. Also, being an active member of technical communities, I mentor my juniors in web development, conduct workshops, and hackathons.
 
 My hobbies include **Reading Blogs**, **Listening to Music**, **Playing Lawn Tennis & Chess** and **Guitar**. I love to maintain a balance between my academics, hobbies, college work and upgrading my skills!
 
